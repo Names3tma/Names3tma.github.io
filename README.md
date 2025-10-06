@@ -1,3 +1,3 @@
 # Ethan's Personal Website
 This is a personal website built using the Hack4Impact Starter Pack!
-<left>
+<This is for Hack4Impact>
